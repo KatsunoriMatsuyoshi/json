@@ -153,7 +153,7 @@
   "main_img": "/column/img/age-ceremony-suit_01.jpg"
  },
  "mens-business-coat": {
-  "title": "メンズスーツに合うコートの選び方。ビジネスシーン向けのデザインや機能性とは？",
+  "title": "【メンズ必見】スーツに合うコートの種類は？選び方やコーデ・マナーを解説",
   "category": "ビジネス メンズ",
   "category_code": "business_mens",
   "date": "2023.11.06",
@@ -666,7 +666,7 @@
   "main_img": "/column/img/mens-officecasual-winter_01.jpg"
  },
  "parent-shichigosan": {
-  "title": "七五三「親の服装」はどうする？基本のマナーやコーデの選び方をチェックしよう",
+  "title": "【七五三】母親・父親の服装マナーガイド｜失敗しない選び方とおすすめコーデを紹介",
   "category": "その他",
   "category_code": "etc",
   "date": "2024.08.30",
@@ -1701,7 +1701,7 @@
   "main_img": "/column/img/3-1-7-251104-resized.jpg"
  },
  "hoji-funeral-attire": {
-  "title": "法事の正しい服装とは？喪服の3つの種類やマナーなどを徹底解説！",
+  "title": "一周忌の服装はどうする？基本からマナーまで徹底解説",
   "category": "フォーマル",
   "category_code": "formal",
   "date": "2025.10.09",
@@ -2464,5 +2464,14 @@
   "article_path": "/column/formal/mens-wedding-shoes.php",
   "thumb": "/column/assets_c/2026/07/mens-wedding-shoes01-thumb-1000x666-85004.jpg",
   "main_img": "/column/img/mens-wedding-shoes01.jpg"
+ },
+ "about-tweed": {
+  "title": "ツイードとは？生地のメリットやデメリット、種類、お手入れ方法を解説",
+  "category": "その他",
+  "category_code": "etc",
+  "date": "2026.07.12",
+  "article_path": "/column/etc/about-tweed.php",
+  "thumb": "/column/assets_c/2026/07/about-tweed 01-thumb-1000x666-85093.jpeg",
+  "main_img": "/column/img/about-tweed 01.jpeg"
  }
 }
