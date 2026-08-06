@@ -156,10 +156,10 @@
   "title": "【メンズ必見】スーツに合うコートの種類は？選び方やコーデ・マナーを解説",
   "category": "ビジネス メンズ",
   "category_code": "business_mens",
-  "date": "2023.11.06",
+  "date": "2026.07.22",
   "article_path": "/column/business_mens/mens-business-coat.php",
-  "thumb": "/column/assets_c/2023/11/mens-business-coat_01-thumb-1000x666-56071.jpg",
-  "main_img": "/column/img/mens-business-coat_01.jpg"
+  "thumb": "/column/assets_c/2026/07/mens-business-coat02-thumb-1000x666-85097.jpg",
+  "main_img": "/column/img/mens-business-coat02.jpg"
  },
  "ladies-business-coat": {
   "title": "スーツに合うレディースコートの選び方。好印象な着こなしでおしゃれに防寒対策をしよう",
@@ -669,9 +669,9 @@
   "title": "【七五三】母親・父親の服装マナーガイド｜失敗しない選び方とおすすめコーデを紹介",
   "category": "その他",
   "category_code": "etc",
-  "date": "2024.08.30",
+  "date": "2026.07.22",
   "article_path": "/column/etc/parent-shichigosan.php",
-  "thumb": "/column/assets_c/2024/08/parent-shichigosan_01-thumb-1000x666-63576.jpg",
+  "thumb": "/column/assets_c/2026/07/parent-shichigosan_01-thumb-1000x666-63576.jpg",
   "main_img": "/column/img/parent-shichigosan_01.jpg"
  },
  "mens-black-knit": {
@@ -1704,10 +1704,10 @@
   "title": "一周忌の服装はどうする？基本からマナーまで徹底解説",
   "category": "フォーマル",
   "category_code": "formal",
-  "date": "2025.10.09",
+  "date": "2026.07.22",
   "article_path": "/column/formal/hoji-funeral-attire.php",
-  "thumb": "/column/assets_c/2025/10/4-1-7-251104-resized-thumb-1000x666-77814.jpg",
-  "main_img": "/column/img/4-1-7-251104-resized.jpg"
+  "thumb": "/column/assets_c/2026/07/hoji-funeral-attire02-thumb-1000x666-85154.jpg",
+  "main_img": "/column/img/hoji-funeral-attire02.jpg"
  },
  "funeral-shoes-manners": {
   "title": "葬式の際に履くべき靴とは？注意点やポイントを徹底解説！",
@@ -2469,9 +2469,18 @@
   "title": "ツイードとは？生地のメリットやデメリット、種類、お手入れ方法を解説",
   "category": "その他",
   "category_code": "etc",
-  "date": "2026.07.12",
+  "date": "2026.07.22",
   "article_path": "/column/etc/about-tweed.php",
-  "thumb": "/column/assets_c/2026/07/about-tweed 01-thumb-1000x666-85093.jpeg",
-  "main_img": "/column/img/about-tweed 01.jpeg"
+  "thumb": "/column/assets_c/2026/07/about-tweed02-thumb-1000x666-85158.jpg",
+  "main_img": "/column/img/about-tweed02.jpg"
+ },
+ "cardigan-with-suit": {
+  "title": "【メンズ】スーツにカーディガンは合わせてOK？着用の基本マナーと選び方のコツ、コーデを紹介",
+  "category": "ビジネス メンズ",
+  "category_code": "business_mens",
+  "date": "2026.08.06",
+  "article_path": "/column/business_mens/cardigan-with-suit.php",
+  "thumb": "/column/assets_c/2026/08/cardigan-with-suit 01-thumb-1000x666-85395.jpg",
+  "main_img": "/column/img/cardigan-with-suit 01.jpg"
  }
 }
