@@ -54,13 +54,13 @@
   "main_img": "/column/img/mens-suit-gray_01.jpg"
  },
  "mens-suit-vest": {
-  "title": "スーツはベストで周りと差をつける！基本の着方&人気のスタイルをご紹介",
+  "title": "スーツにベスト（ジレ）をどう合わせる？種類や選び方・着こなしのポイントを解説",
   "category": "ビジネス メンズ",
   "category_code": "business_mens",
-  "date": "2023.09.29",
+  "date": "2026.08.20",
   "article_path": "/column/business_mens/mens-suit-vest.php",
-  "thumb": "/column/assets_c/2023/09/mens-suit-vest_01-thumb-1000x666-55012.jpg",
-  "main_img": "/column/img/mens-suit-vest_01.jpg"
+  "thumb": "/column/assets_c/2026/08/mens-suit-vest01-thumb-1000x666-85425.jpeg",
+  "main_img": "/column/img/mens-suit-vest01.jpeg"
  },
  "ladies-suit-innerwear": {
   "title": "レディーススーツに合わせるインナーの選び方！季節に合わせておしゃれを楽しもう",
@@ -162,13 +162,13 @@
   "main_img": "/column/img/mens-business-coat02.jpg"
  },
  "ladies-business-coat": {
-  "title": "スーツに合うレディースコートの選び方。好印象な着こなしでおしゃれに防寒対策をしよう",
+  "title": "レディーススーツにふさわしいコートは？選び方&シーン別おすすめコーデを紹介",
   "category": "ビジネス レディース",
   "category_code": "business_ladies",
-  "date": "2023.11.06",
+  "date": "2026.08.20",
   "article_path": "/column/business_ladies/ladies-business-coat.php",
-  "thumb": "/column/assets_c/2023/11/ladies-business-coat_01-thumb-1000x666-56150.jpg",
-  "main_img": "/column/img/ladies-business-coat_01.jpg"
+  "thumb": "/column/assets_c/2026/08/ladies-business-coat01-thumb-1000x666-85431.jpg",
+  "main_img": "/column/img/ladies-business-coat01.jpg"
  },
  "ladies-suit-stylish": {
   "title": "【レディース】スーツのおしゃれな着こなし術。シーンに合わせてコーデを楽しもう",
@@ -657,13 +657,13 @@
   "main_img": "/column/img/recruit-naiteishiki-items_01.jpg"
  },
  "mens-officecasual-winter": {
-  "title": "【メンズ】冬のオフィスカジュアル特集！おしゃれな定番コーディネートをご紹介",
+  "title": "冬のメンズオフィスカジュアルはどう着こなす？ 20代から50代のおすすめコーデを紹介",
   "category": "ビジネス メンズ",
   "category_code": "business_mens",
-  "date": "2024.08.30",
+  "date": "2026.08.20",
   "article_path": "/column/business_mens/mens-officecasual-winter.php",
-  "thumb": "/column/assets_c/2024/08/mens-officecasual-winter_01-thumb-1000x666-63547.jpg",
-  "main_img": "/column/img/mens-officecasual-winter_01.jpg"
+  "thumb": "/column/assets_c/2026/08/mens-officecasual-winter01-thumb-1000x666-85398.jpeg",
+  "main_img": "/column/img/mens-officecasual-winter01.jpeg"
  },
  "parent-shichigosan": {
   "title": "【七五三】母親・父親の服装マナーガイド｜失敗しない選び方とおすすめコーデを紹介",
@@ -2478,9 +2478,27 @@
   "title": "【メンズ】スーツにカーディガンは合わせてOK？着用の基本マナーと選び方のコツ、コーデを紹介",
   "category": "ビジネス メンズ",
   "category_code": "business_mens",
-  "date": "2026.08.06",
+  "date": "2026.08.20",
   "article_path": "/column/business_mens/cardigan-with-suit.php",
   "thumb": "/column/assets_c/2026/08/cardigan-with-suit 01-thumb-1000x666-85395.jpg",
   "main_img": "/column/img/cardigan-with-suit 01.jpg"
+ },
+ "test-related-categories": {
+  "title": "（関連カテゴリ実装確認用テストデータです）※公開状態への変更禁止",
+  "category": "ビジネス レディース",
+  "category_code": "business_ladies",
+  "date": "2026.09.07",
+  "article_path": "/column/business_ladies/test-related-categories.php",
+  "thumb": "/column/assets_c/2026/09/ladies-business-coat01-thumb-1000x666-85431.jpg",
+  "main_img": "/column/img/ladies-business-coat01.jpg"
+ },
+ "graduation-formal-wear": {
+  "title": "【女性向け】卒業式に礼服を着ても大丈夫？喪服との違いや服装マナー、コーデを紹介",
+  "category": "フォーマル",
+  "category_code": "formal",
+  "date": "2026.09.08",
+  "article_path": "/column/formal/graduation-formal-wear.php",
+  "thumb": "/column/assets_c/2026/09/graduation-formal-wear 01-thumb-1000x666-86302.jpg",
+  "main_img": "/column/img/graduation-formal-wear 01.jpg"
  }
 }
