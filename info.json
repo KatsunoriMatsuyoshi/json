@@ -199,10 +199,10 @@
  },
  "mother-graduation": {
   "title": "卒園式・卒業式にぴったりな母親の服装とは？スーツの着用マナーやスタイルをご紹介",
-  "category": "その他",
-  "category_code": "etc",
+  "category": "フォーマル",
+  "category_code": "formal",
   "date": "2023.11.30",
-  "article_path": "/column/etc/mother-graduation.php",
+  "article_path": "/column/formal/mother-graduation.php",
   "thumb": "/column/assets_c/2023/11/mother-graduation_01-thumb-1000x666-56699.jpg",
   "main_img": "/column/img/mother-graduation_01.jpg"
  },
@@ -235,10 +235,10 @@
  },
  "mens-freshers-suit": {
   "title": "【新男子大学生向け】入学式はどんなスーツを着る？選び方と基本の着こなしをチェック",
-  "category": "その他",
-  "category_code": "etc",
+  "category": "フォーマル",
+  "category_code": "formal",
   "date": "2023.12.28",
-  "article_path": "/column/etc/mens-freshers-suit.php",
+  "article_path": "/column/formal/mens-freshers-suit.php",
   "thumb": "/column/assets_c/2023/12/mens-freshers-suit_01-thumb-1000x666-57283.jpg",
   "main_img": "/column/img/mens-freshers-suit_01.jpg"
  },
@@ -261,22 +261,22 @@
   "main_img": "/column/img/recruit-intern_01.jpg"
  },
  "mother-entrance-ceremony": {
-  "title": "ママのための入園式・入学式向けスーツ特集！おすすめのコーデ&服装マナーをご紹介",
-  "category": "その他",
-  "category_code": "etc",
-  "date": "2023.12.28",
-  "article_path": "/column/etc/mother-entrance-ceremony.php",
-  "thumb": "/column/assets_c/2023/12/mother-entrance-ceremony_01-thumb-1000x666-57408.jpg",
+  "title": "入学式・入園式にふさわしいママの服装は？スーツやワンピースコーデを年代別で紹介",
+  "category": "フォーマル",
+  "category_code": "formal",
+  "date": "2026.09.24",
+  "article_path": "/column/formal/mother-entrance-ceremony.php",
+  "thumb": "/column/assets_c/2026/09/mother-entrance-ceremony_01-thumb-1000x666-57408.jpg",
   "main_img": "/column/img/mother-entrance-ceremony_01.jpg"
  },
  "mens-setup-suit": {
-  "title": "【メンズ】セットアップと基本のスーツの違いとは？着回しのコツ&上下別のコーデ特集",
-  "category": "ビジネス メンズ",
-  "category_code": "business_mens",
-  "date": "2023.12.28",
-  "article_path": "/column/business_mens/mens-setup-suit.php",
-  "thumb": "/column/assets_c/2023/12/mens-setup-suit_01-thumb-1000x666-57393.jpg",
-  "main_img": "/column/img/mens-setup-suit_01.jpg"
+  "title": "セットアップとスーツの違いは？お手本コーデ&ビジネスシーンでの着回しのコツを解説",
+  "category": "フォーマル",
+  "category_code": "formal",
+  "date": "2026.09.24",
+  "article_path": "/column/formal/mens-setup-suit.php",
+  "thumb": "/column/assets_c/2026/09/mens-setup-suit01-thumb-1000x666-86325.jpg",
+  "main_img": "/column/img/mens-setup-suit01.jpg"
  },
  "mens-entrance-ceremony": {
   "title": "新入社員のメンズスーツの選び方とは？着回しに必要な着数&好印象な着こなしをご紹介",
@@ -837,13 +837,13 @@
   "main_img": "/column/img/ladies-officecasual-onepiece_01.jpg"
  },
  "mens-age-ceremony": {
-  "title": "【メンズ向け】成人式のスーツをおしゃれに着こなそう！マナーを守ったおすすめコーデ",
-  "category": "その他",
-  "category_code": "etc",
-  "date": "2024.09.27",
-  "article_path": "/column/etc/mens-age-ceremony.php",
-  "thumb": "/column/assets_c/2024/09/mens-age-ceremony_01-thumb-1000x666-65252.jpg",
-  "main_img": "/column/img/mens-age-ceremony_01.jpg"
+  "title": "【メンズ】成人式のスーツはどう選ぶ？おすすめコーデ&おしゃれな着こなし術を解説",
+  "category": "フォーマル",
+  "category_code": "formal",
+  "date": "2026.09.24",
+  "article_path": "/column/formal/mens-age-ceremony.php",
+  "thumb": "/column/assets_c/2026/09/mens-age-ceremony01-thumb-1000x666-86330.jpeg",
+  "main_img": "/column/img/mens-age-ceremony01.jpeg"
  },
  "ladies-age-ceremony": {
   "title": "女性が成人式にスーツを着るメリットデメリット！おすすめのコーデをご紹介",
@@ -2496,7 +2496,7 @@
   "title": "【女性向け】卒業式に礼服を着ても大丈夫？喪服との違いや服装マナー、コーデを紹介",
   "category": "フォーマル",
   "category_code": "formal",
-  "date": "2026.09.08",
+  "date": "2026.09.24",
   "article_path": "/column/formal/graduation-formal-wear.php",
   "thumb": "/column/assets_c/2026/09/graduation-formal-wear 01-thumb-1000x666-86302.jpg",
   "main_img": "/column/img/graduation-formal-wear 01.jpg"
